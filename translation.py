@@ -7,7 +7,7 @@ class LuciferMoringstar(object):
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [PR0FESS0R-99](t.me/tom_hiddlestom)
+🧑 My Dev : [tom_hiddlestom](t.me/tom_hiddlestom)
 
 🧑 My Creator : {dev_name}
 
@@ -23,9 +23,9 @@ class LuciferMoringstar(object):
 
 🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
 
-🏷️ My Updates : [Mo Tech](t.me/Mo_Tech_YT)
+🏷️ My Updates : [Mo Tech](t.me/atthemoviesz)
 
-🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
+🗣️ My Support : [Any Doubt](t.me/ATM_MM)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
